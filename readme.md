@@ -17,9 +17,9 @@ If Google Analytics is present on your page, events will be sent to log each ans
 
 After completing the quiz, users will be prompted to share on Twitter or Facebook. To allow Facebook sharing, an app ID is required.
 ## To do
-[ ] Allow for direct linking to Google Sheets, rather than fussing with a JSON.
-[ ] Change progress bar from a table to flexbox elements
-[ ] Gussy up CSS
-[ ] Allow for more elaborate answers, such as photos
+- [ ] Allow for direct linking to Google Sheets, rather than fussing with a JSON.
+- [ ] Change progress bar from a table to flexbox elements
+- [ ] Gussy up CSS
+- [ ] Allow for more elaborate answers, such as photos
 ## Credits
 Luke Seemann

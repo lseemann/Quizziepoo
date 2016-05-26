@@ -20,5 +20,6 @@ After completing the quiz, users will be prompted to share on Twitter or Faceboo
 [ ] Allow for direct linking to Google Sheets, rather than fussing with a JSON.
 [ ] Change progress bar from a table to flexbox elements
 [ ] Gussy up CSS
+[ ] Allow for more elaborate answers, such as photos
 ## Credits
 Luke Seemann

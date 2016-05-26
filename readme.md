@@ -1,6 +1,8 @@
 # Quizziepoo
 A simple quiz to embed in Web pages. [Example](http://www.chicagomag.com/Chicago-Magazine/February-2014/bar-trivia/).
 ## Usage
+Requires jQuery.
+
 Insert this code in your HTML where you'd like the quiz to appear:
 ```
 <div id="quiz-wrapper"></div>
